@@ -6,12 +6,12 @@ name: CSE6243
 title: Advanced Topics in Machine Learning 
 instructor: Bo Dai (bodai at cc.gatech.edu)
 description: >
-  CSE 6243 - Advanced Topics in Machine Learning  - Georgia Institute of Technology - Fall 2023
+  CSE 6243 - Advanced Topics in Machine Learning  - Georgia Institute of Technology - Fall 2024
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 url: https://bo-dai.github.io # the base hostname & protocol for your site
-baseurl: /CSE6243-fall2023/ #/bo-dai/ # the subpath of your site, e.g. /blog/
+baseurl: /CSE6243-fall2024/ #/bo-dai/ # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
 # Social integration
