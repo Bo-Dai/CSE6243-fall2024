@@ -25,8 +25,8 @@ These topics will be covered in **Four Modules**:
 - **Module II: Generative Model**
   - VAE, Autoregressive Model, GAN, EBM (CD, Score Matching), Diffusion Models
 
-- **Module III: Differentiable Programming**
-  - Differentiable Bilevel Optimization, Differentiable Sampler, Differentiable Algorithm (Planning). 
+- **Module III: Representation Learning**
+  - Contrastive and Non-Contrastive Representation Learning, Multi-Modality Representation Learning. 
 
 - **Module IV: Reinforcement Learning**
   - MDP, Dynamic Programming, Policy-gradient, LP-based algorithm 
