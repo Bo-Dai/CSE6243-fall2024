@@ -26,7 +26,8 @@ These topics will be covered in **Four Modules**:
   - VAE, Autoregressive Model, GAN, EBM (CD, Score Matching), Diffusion Models
 
 - **Module III: Representation Learning**
-  - Contrastive and Non-Contrastive Representation Learning, Multi-Modality Representation Learning. 
+  - Contrastive and Non-Contrastive Representation Learning, Multi-Modality Representation Learning.
+  - Representation Learning vs. Generative Models.
 
 - **Module IV: Reinforcement Learning**
   - MDP, Dynamic Programming, Policy-gradient, LP-based algorithm 
