@@ -29,7 +29,7 @@ All write-ups should use the [NeurIPS style](https://nips.cc/Conferences/2020/Pa
 
 ### Team Formation
 
-You are responsible for forming project teams of 3-4 people.
+You are responsible for forming project teams of 1-3 people.
 In some cases, we will also accept teams of 2, but a 3-4-person group is preferred.
 Once you have formed your group, please send one email per team to the class instructor list with the names of all team members.
 If you have trouble forming a group, please send us an email and we will help you find project partners.
