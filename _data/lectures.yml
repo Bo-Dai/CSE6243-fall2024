@@ -200,7 +200,7 @@
 - title: "Module III: Representation Programming"
 
 - date: 10/16
-  lecturer: Invited Talk (TBD)
+  lecturer:
   title: >
     <strong>Invited Talk (TBD)</strong>
 #  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/Talk_Sherry.pdf"
@@ -211,7 +211,7 @@
 
 
 - date: 10/21
-  lecturer: Invited Talk (TBD)
+  lecturer:
   title: >
     <strong>Invited Talk (TBD)</strong>
 #  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/Talk_Sherry.pdf"
@@ -248,10 +248,6 @@
 
 
 
-###################
-
-
-###################
 
 - title: "Module IV: Reinforcement Learning"
 
@@ -332,9 +328,9 @@
     <strong>Project Presentations</strong>
 
 - date: 11/27
-  lecturer: Bo Dai
+  lecturer:
   title: >
-    <strong>No Class (Student Recess)</strong>
+    No Class (Student Recess)
 
 - date: 12/02
   lecturer: Bo Dai
@@ -342,9 +338,9 @@
     <strong>Review</strong>
 
 - date: 12/09
-  lecturer: Bo Dai
+  lecturer:
   title: >
-    <strong>Project Report Due</strong>
+    Project Report Due
     
 
 
