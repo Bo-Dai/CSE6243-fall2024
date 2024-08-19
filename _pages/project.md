@@ -43,7 +43,7 @@ You must turn in a brief project proposal that provides an overview of your idea
 We will provide a list of suggested project ideas for you to choose from, though you may discuss other project ideas with us, whether applied or theoretical.
 Note that even though you can use datasets you have used before, **you cannot use work that you started prior to this class as your project**.
 
-Proposals should be approximately **3 pages long**, and should include the following information:
+Proposals should be approximately **3 pages long excluding references**, and should include the following information:
 
 - Project title and list of group members.
 - Overview of project idea. This should be approximately half a page long.
