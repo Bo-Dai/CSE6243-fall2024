@@ -110,7 +110,7 @@ The project final report will be due at **11:59 PM on Friday, May 10th** (tentat
 All project teams will present their work at the end of the semester. Each team should present it during the allocated time.
 If applicable, live demonstrations of your software are highly encouraged.
 
-### Project Suggestions
+### Project Examples
 
 ***
 
