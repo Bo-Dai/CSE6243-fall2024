@@ -330,7 +330,7 @@
 - date: 11/27
 #  lecturer:
   title: >
-    No Class (Student Recess)
+    <strong>No Class (Student Recess)</strong>
 
 - date: 12/02
 #  lecturer: Bo Dai
@@ -340,7 +340,7 @@
 - date: 12/09
 #  lecturer:
   title: >
-    Project Report Due
+    <strong>Project Report Due</strong>
     
 
 
