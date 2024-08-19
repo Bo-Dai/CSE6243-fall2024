@@ -200,7 +200,7 @@
 - title: "Module III: Representation Programming"
 
 - date: 10/16
-  lecturer:
+  lecturer: TBD
   title: >
     <strong>Invited Talk (TBD)</strong>
 #  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/Talk_Sherry.pdf"
@@ -211,7 +211,7 @@
 
 
 - date: 10/21
-  lecturer:
+  lecturer: TBD
   title: >
     <strong>Invited Talk (TBD)</strong>
 #  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/Talk_Sherry.pdf"
@@ -328,17 +328,17 @@
     <strong>Project Presentations</strong>
 
 - date: 11/27
-  lecturer:
+#  lecturer:
   title: >
     No Class (Student Recess)
 
 - date: 12/02
-  lecturer: Bo Dai
+#  lecturer: Bo Dai
   title: >
     <strong>Review</strong>
 
 - date: 12/09
-  lecturer:
+#  lecturer:
   title: >
     Project Report Due
     
