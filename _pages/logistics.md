@@ -58,7 +58,7 @@ Each student is required to scribe for a certain number of lectures. Most lectur
 
 As long as your scribe notes are of sufficient standard, you will be awarded full credit for scribe duties. If your notes have errors or are otherwise not up to standard, we will inform you and give you a chance to correct them. You will receive zero credit if you fail to submit your notes. 
 
-The scribing assignment is on [this spreadsheet](https://docs.google.com/spreadsheets/d/1TTlvcGLdT3sJgRes-8mI1eD_k9EdnSPVISIP59FGVvU/edit?usp=sharing){:target="\_blank"}.
+The scribing assignment is on [this spreadsheet](https://docs.google.com/spreadsheets/d/11bQt7aMhygQ8gyrSXj8DZb3rrcy61k-KJSSynCQMRT8/edit?gid=0#gid=0){:target="\_blank"}.
 
 **The students are required to typeset homework solutions using $$\LaTeX$$ and the provided template. We recommend referring to [the LaTex wikipedia](https://en.wikibooks.org/wiki/LaTeX/Mathematics){:target="\_blank"} to edit the notes.** 
 
