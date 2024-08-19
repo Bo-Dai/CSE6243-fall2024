@@ -30,7 +30,7 @@ These topics will be covered in **Four Modules**:
   - Representation Learning vs. Generative Models.
 
 - **Module IV: Reinforcement Learning**
-  - MDP, Dynamic Programming, Policy-gradient, LP-based algorithm 
+  - MDP, Dynamic Programming, Policy-gradient, Imitation Learning
   - (Offline RL, Exploration)
 
 <ins>**The course will be very math and theory heavy.**</ins> The students are expected to develop the skill of design computationally and statistically efficient machine learning algorithms for practical problems.
