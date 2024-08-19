@@ -126,9 +126,21 @@ We have introduced a variaty of representation learning algorithms, including Si
 
 What is the pros and cons for each method? Design experiments to demonstarte your claims. 
 
+**References:**
+
+1. [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709){:target="\_blank"}.
+2. [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020){:target="\_blank"}.
+3. [Provable Guarantees for Self-Supervised Deep Learning with Spectral Contrastive Loss](https://arxiv.org/abs/2106.04156){:target="\_blank"}.
+4. [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733){:target="\_blank"}.
+
 ***
 #### Reinforcement Learning
 Reinforcement Learning becomes more and more important by demonstrating its ability from AlphaGo to large language models. Consider to apply RL in practical applications, e.g., Atari, robot control in simulators, controllable generation, and Language Models. 
+
+1. [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290){:target="\_blank"}.
+2. [Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review](https://arxiv.org/abs/2407.13734){:target="\_blank"}.
+
+
 
 ***
 #### Machine Learning on/with Graphs
@@ -139,8 +151,8 @@ Machine learning on graphs is an important and ubiquitous task with applications
 
 1. [Learning Deep Generative Models of Graphs](https://arxiv.org/abs/1803.03324){:target="\_blank"}.
 2. [GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](https://cs.stanford.edu/people/jure/pubs/graphrnn-icml18.pdf){:target="\_blank"}.
-3. [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907){:target="\_blank"}.
-4. [Learning Multimodal Graph-to-graph Translation for Molecular Optimization](https://arxiv.org/pdf/1812.01070.pdf){:target="\_blank"}.
+3. [Scalable Deep Generative Modeling for Sparse Graphs](https://proceedings.mlr.press/v119/dai20b/dai20b.pdf){:target="\_blank"}.
+4. [Discriminative Embeddings of Latent Variable Models for Structured Data](https://proceedings.mlr.press/v48/daib16.html){:target="\_blank"}.
 5. [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf){:target="\_blank"}.
 
 
