@@ -13,10 +13,10 @@ Instructor and TA will consult with you, but of course the final responsibility 
 Projects should be done in teams of three to four students.
 Your project will be worth 40% of your final class grade, and will have 4 deliverables:
 
-1. **Proposal** : 2 pages excluding references (10%)
-2. **Midway Report** : 3 pages excluding references (20%)
-3. **Presentation** : oral presentation (20%)
-4. **Final Report** : 5 pages excluding references (50%)
+1. **Proposal** : 2 pages excluding references (20%)
+<!---2. **Midway Report** : 3 pages excluding references (20%)-->
+2. **Presentation** : oral presentation (30%)
+3. **Final Report** : 5 pages excluding references (50%)
 
 All write-ups should use the [NeurIPS style](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles).
 
@@ -33,6 +33,9 @@ You are responsible for forming project teams of 2-4 people.
 In some cases, we will also accept teams of 1, but a 2-4 person group is preferred.
 Once you have formed your group, please send one email per team to the class instructor list with the names of all team members.
 If you have trouble forming a group, please send us an email and we will help you find project partners.
+
+The team formation email will be due at **11:59 PM on September 4th**.
+
 
 ### Project Proposal
 
@@ -55,11 +58,9 @@ The grading breakdown for the proposal is as follows:
 - 10% for plan of activities
 - 10% for quality of writing
 
+The project proposal will be due at **11:59 PM on October 16th**.
+
 <!---
-The project proposal will be due at **11:59 PM on Friday, February 22th**, and should be submitted via [Gradescope](https://www.gradescope.com/courses/36025).
--->
-
-
 ### Midway Report
 
 The midway report will serve as a check-point at the halfway mark of your project.
@@ -74,7 +75,6 @@ The grading breakdown for the midway report is as follows:
 - 10% for data collection and preliminary results
 - 10% for quality of writing
 
-<!---
 The project midway report will be due at **11:59 PM on Friday, March 29th**, and must be submitted via [Gradescope](https://www.gradescope.com/courses/36025).
 -->
 
@@ -101,6 +101,8 @@ The grading breakdown for the final report is as follows:
 - 10% for empirical and theoretical analysis of results and methods
 - 20% for quality of writing (clarity, organization, flow, etc.)
 
+
+The project final report will be due at **11:59 PM on December 9th** 
 <!---
 The project final report will be due at **11:59 PM on Friday, May 10th** (tentative), and must be submitted via [Gradescope](https://www.gradescope.com/courses/36025).
 -->
