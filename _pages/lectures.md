@@ -1,5 +1,5 @@
 ---
-layout: schedule
+layout: (Tentative) Schedule
 permalink: /lectures/
 title: Schedule
 ---
