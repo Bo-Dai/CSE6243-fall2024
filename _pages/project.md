@@ -29,8 +29,8 @@ All write-ups should use the [NeurIPS style](https://nips.cc/Conferences/2020/Pa
 
 ### Team Formation
 
-You are responsible for forming project teams of 2-3 people.
-In some cases, we will also accept teams of 1, but a 2-3 person group is preferred.
+You are responsible for forming project teams of 2-4 people.
+In some cases, we will also accept teams of 1, but a 2-4 person group is preferred.
 Once you have formed your group, please send one email per team to the class instructor list with the names of all team members.
 If you have trouble forming a group, please send us an email and we will help you find project partners.
 
@@ -109,6 +109,41 @@ The project final report will be due at **11:59 PM on Friday, May 10th** (tentat
 
 All project teams will present their work at the end of the semester. Each team should present it during the allocated time.
 If applicable, live demonstrations of your software are highly encouraged.
+
+### Project Suggestions
+
+***
+
+#### Generative Models Comparison
+There have been a variety of generative models proposed and introduced, including variational auto-encoder, energy-based models, generative adversarial networks, diffusion models, and so on. 
+
+What is the pros and cons for each model in training, inference, and downstream tasks (texts vs. images)? Design experiments to demonstrate your claims. 
+
+***
+
+#### Representation Learning 
+We have introduced a variaty of representation learning algorithms, including SimCLR, CLIP, BYOL, and Spectral Contrastive, and so on. 
+
+What is the pros and cons for each method? Design experiments to demonstarte your claims. 
+
+***
+#### Reinforcement Learning
+Reinforcement Learning becomes more and more important by demonstrating its ability from AlphaGo to large language models. Consider to apply RL in practical applications, e.g., Atari, robot control in simulators, controllable generation, and Language Models. 
+
+***
+#### Machine Learning on/with Graphs
+
+Machine learning on graphs is an important and ubiquitous task with applications ranging from drug design to social networks modeling. How to conduct machine learning with graph data is an important question, including generative models for graphs, classification on graphs, ad so on. 
+
+**References**:
+
+1. [Learning Deep Generative Models of Graphs](https://arxiv.org/abs/1803.03324){:target="\_blank"}.
+2. [GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](https://cs.stanford.edu/people/jure/pubs/graphrnn-icml18.pdf){:target="\_blank"}.
+3. [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907){:target="\_blank"}.
+4. [Learning Multimodal Graph-to-graph Translation for Molecular Optimization](https://arxiv.org/pdf/1812.01070.pdf){:target="\_blank"}.
+5. [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf){:target="\_blank"}.
+
+
 
 <!---
 ## Project Suggestions
