@@ -92,7 +92,7 @@ Please note that regrading of a homework may cause your grade to go either up or
 
 ### Final Project
 
-The class project will be carried out in groups of 2 or 3 people, and has four main parts: a proposal, a midway report, a final report, and a oral presentation.
+The class project will be carried out in groups of 2 to 4 people, and has four main parts: a proposal, a midway report, a final report, and a oral presentation.
 The project is an integral part of this class, and is designed to be as similar as possible to researching and writing a conference-style paper.
 
 <!---
