@@ -38,8 +38,8 @@ These topics will be covered in **Four Modules**:
 ***
 
 **Time:** Monday/Wednesday 5:00-06:15 pm\
-**Location:** Molecular Sciences and Engr 1222	(https://bme.gatech.edu/bme/molecular-science-engineering-building){:target="\_blank"}\
+**Location:** [Molecular Sciences and Engr 1222](https://bme.gatech.edu/bme/molecular-science-engineering-building){:target="\_blank"}\
 **Discussion & HW submission:** [Canvas](https://gatech.instructure.com/courses/377010){:target="\_blank"} and [Ed Discussion](https://edstem.org/us/courses/43567){:target="\_blank"}\
-**Contact:** Please ask all course-related questions on [Ed Discussion](https://edstem.org/us/courses/43567){:target="\_blank"}, where you will also find announcements. For external enquiries, personal matters, or in emergencies, you can email us at *bodai at cc.gatech.edu* and *haotian.sun at gatech.edu*.
+**Contact:** Please ask all course-related questions on [Ed Discussion](https://edstem.org/us/courses/43567){:target="\_blank"}, where you will also find announcements. For external enquiries, personal matters, or in emergencies, you can email us at *bodai at cc.gatech.edu* and *shribak at gatech.edu*.
 
 ***

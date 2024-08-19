@@ -2,7 +2,7 @@
   lecturer: Bo Dai
   title: >
     <strong>Course Overview</strong>
-  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/cse6243-lecture1.pdf"
+  slides: "https://bo-dai.github.io/CSE6243-fall2024/slides/cse6243-lecture1.pdf"
   # video: 
   readings:
 
@@ -46,6 +46,17 @@
 - date: 09/04
   lecturer: Bo Dai
   title: >
+    <strong>Density Parametrization</strong>
+  slides:
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec5.pdf"
+  # video: 
+  readings:
+    - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 8
+    - Wainwright & Jordan,  <a href="https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf" target="_blank">Graphical Models, Exponential Families, and Variational Inference</a>.
+
+- date: 09/09
+  lecturer: Bo Dai
+  title: >
     <strong>Sampling: basic sampling method</strong>
   slides:
 #  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec5.pdf"
@@ -53,7 +64,7 @@
   readings:
     - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 11
 
-- date: 09/09
+- date: 09/11
   lecturer: Bo Dai
   title: >
     <strong>Sampling: Acceptance-Rejection & Importance Sampling</strong>
@@ -63,7 +74,7 @@
   readings:
     - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 11
 
-- date: 09/11
+- date: 09/16
   lecturer: Bo Dai
   title: >
     <strong>Sampling: MCMC (MH, Gibbs & Hamiltonian)</strong>
@@ -74,23 +85,8 @@
     - Neal, <a href="https://www.mcmchandbook.net/HandbookChapter5.pdf" target="_blank">MCMC Using Hamiltonian Dynamics</a>
     - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 11
 
-- date: 09/16
-  lecturer: Bo Dai
-  title: >
-    <strong>Density Parametrization</strong>
-  slides: 
-#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec8.pdf"
-  # video: 
-  readings:
-    - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 8
-    - Wainwright & Jordan, <a href="https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf" target="_blank">Graphical Models, Exponential Families, and Variational Inference</a>.
-
-- date: 09/18
-  lecturer: 
-  title: >
-    No Class 
     
-- date: 09/23
+- date: 09/18
   lecturer: Bo Dai
   title: >
     <strong>Neural Network Revisit</strong>
@@ -101,7 +97,7 @@
 
 - title: "Module II: Deep Generative Models"
 
-- date: 09/25
+- date: 09/23
   lecturer: Bo Dai
   title: >
     <strong>EBM (CD, Score Matching)</strong>
@@ -112,7 +108,7 @@
       - Song & Kingma, <a href="https://arxiv.org/abs/2101.03288" target="_blank">How to Train Your Energy-Based Models</a>
 
 
-- date: 09/30
+- date: 09/25
   lecturer: Bo Dai
   title: >
     <strong>Autoregressive Model</strong>
@@ -122,7 +118,7 @@
   readings:
       - Larochelle & Murray, <a href="http://proceedings.mlr.press/v15/larochelle11a/larochelle11a.pdf" target="_blank">The Neural Autoregressive Distribution Estimator</a>
 
-- date: 10/02
+- date: 09/30
   lecturer: Bo Dai
   title: >
     <strong>VAE and Diffusion</strong>
@@ -134,7 +130,7 @@
      - Rezende, Mohamed, & Wierstra, <a href="https://arxiv.org/abs/1401.4082" target="_blank">Stochastic Backpropagation and Approximate Inference in Deep Generative Models</a>
 
 
-- date: 10/07
+- date: 10/02
   lecturer: 
   title: >
     No Class (Fall Break)
