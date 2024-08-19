@@ -55,7 +55,7 @@
     - Wainwright & Jordan,  <a href="https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf" target="_blank">Graphical Models, Exponential Families, and Variational Inference</a>.
 
 - date: 09/04
-  lecturer: 
+  # lecturer: 
   title: >
     <strong>Deadline of Team Formation</strong>
 
@@ -180,7 +180,7 @@
 #  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec25.pdf"
 
   # video:
-  readings:
+ #  readings:
 
 #- date: 10/09
 #  lecturer: Ruiqi Gao (Virtual) - Google DeepMind
