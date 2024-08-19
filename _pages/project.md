@@ -13,7 +13,7 @@ Instructor and TA will consult with you, but of course the final responsibility 
 Projects should be done in teams of three to four students.
 Your project will be worth 40% of your final class grade, and will have 4 deliverables:
 
-1. **Proposal** : 2 pages excluding references (20%)
+1. **Proposal** : 3 pages excluding references (20%)
 <!---2. **Midway Report** : 3 pages excluding references (20%)-->
 2. **Presentation** : oral presentation (30%)
 3. **Final Report** : 5 pages excluding references (50%)
