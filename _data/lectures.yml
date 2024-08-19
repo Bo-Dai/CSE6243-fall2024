@@ -168,7 +168,7 @@
 
 
 - date: 10/14
-  lecturer: Bo Dai
+#  lecturer: Bo Dai
   title: >
     <strong>Fall Break</strong>
   slides:
@@ -313,32 +313,32 @@
 
 
 - date: 11/18
-  lecturer:
+#  lecturer:
   title: >
     <strong>Project Presentations</strong>
 
 - date: 11/20
-  lecturer:
+#  lecturer:
   title: >
     <strong>Project Presentations</strong>
 
 - date: 11/25
-  lecturer:
+#  lecturer:
   title: >
     <strong>Project Presentations</strong>
 
 - date: 11/27
-  lecturer:
+#  lecturer:
   title: >
     <strong>No Class Student Recess</strong>
 
 - date: 12/02
-  lecturer:
+#  lecturer:
   title: >
     <strong> Review </strong>
 
 - date: 12/09
-  lecturer:
+#  lecturer:
   title: >
     <strong>Project Report Due</strong>
     
