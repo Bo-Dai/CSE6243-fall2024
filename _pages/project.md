@@ -34,7 +34,7 @@ In some cases, we will also accept teams of 1, but a 2-4 person group is preferr
 Once you have formed your group, please send one email per team to the class instructor list with the names of all team members.
 If you have trouble forming a group, please send us an email and we will help you find project partners.
 
-The team formation email will be due at **11:59 PM on September 11th**.
+The team formation email will be due at **11:59 PM on September 09th**.
 
 
 ### Project Proposal
