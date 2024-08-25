@@ -54,11 +54,6 @@
     - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 8
     - Wainwright & Jordan,  <a href="https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf" target="_blank">Graphical Models, Exponential Families, and Variational Inference</a>.
 
-- date: 09/04
-  # lecturer: 
-  title: >
-    <strong>Team Formation Due</strong>
-
 - date: 09/09
   lecturer: Bo Dai
   title: >
@@ -78,6 +73,11 @@
   # video: 
   readings:
     - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 11
+
+- date: 09/11
+  # lecturer: 
+  title: >
+    <strong>Team Formation Due</strong>
 
 - date: 09/16
   lecturer: Bo Dai
