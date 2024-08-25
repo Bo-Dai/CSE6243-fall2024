@@ -64,6 +64,11 @@
   readings:
     - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 11
 
+- date: 09/09
+  # lecturer: 
+  title: >
+    <strong>Team Formation Due</strong>
+    
 - date: 09/11
   lecturer: Bo Dai
   title: >
@@ -73,11 +78,6 @@
   # video: 
   readings:
     - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 11
-
-- date: 09/11
-  # lecturer: 
-  title: >
-    <strong>Team Formation Due</strong>
 
 - date: 09/16
   lecturer: Bo Dai
