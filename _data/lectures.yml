@@ -22,7 +22,7 @@
   lecturer: Bo Dai
   title: >
     <strong>Optimization: convex set and function</strong>
-  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/cse6243-lecture2.pdf"
+#  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/cse6243-lecture2.pdf"
 #  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec3.pdf"
   # video: 
   readings:
