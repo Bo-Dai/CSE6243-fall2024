@@ -14,7 +14,7 @@
     <strong>Optimization: convex preliminary</strong>
   slides:
   # video: 
-#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec2.pdf"
+  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec2.pdf"
   readings:
     - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>, Section 1
 
@@ -23,7 +23,7 @@
   title: >
     <strong>Optimization: convex set and function I</strong>
 #  slides: "https://bo-dai.github.io/CSE6243-fall2024/slides/cse6243-lecture2.pdf"
-#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec3.pdf"
+  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec3.pdf"
   # video: 
   readings:
     - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>, Section 2-3
