@@ -21,7 +21,7 @@
 - date: 08/26
   lecturer: Bo Dai
   title: >
-    <strong>Optimization: convex set and function</strong>
+    <strong>Optimization: convex set and function I</strong>
 #  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/cse6243-lecture2.pdf"
 #  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec3.pdf"
   # video: 
@@ -31,7 +31,7 @@
 - date: 08/28
   lecturer: Bo Dai
   title: >
-    <strong>Optimization: gradient descent</strong>
+    <strong>Optimization: convex set and function II</strong>
   slides:
 #  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec4.pdf"
   # video: 
@@ -46,7 +46,7 @@
 - date: 09/04
   lecturer: Bo Dai
   title: >
-    <strong>Density Parametrization</strong>
+    <strong>Optimization: gradient descent & Density Parametrization</strong>
   slides:
 #  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec5.pdf"
   # video: 
