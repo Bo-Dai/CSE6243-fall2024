@@ -121,6 +121,16 @@ There have been a variety of generative models proposed and introduced, includin
 
 What is the pros and cons for each model in training, inference, and downstream tasks (texts vs. images)? Design experiments to demonstrate your claims. 
 
+**References**
+1. [A Tutorial on Energy-Based Learning](https://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf){:target="\_blank"}.
+2. [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114){:target="\_blank"}.
+3. [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661){:target="\_blank"}.
+4. [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039){:target="\_blank"}.
+5. [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239){:target="\_blank"}.
+6. [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456){:target="\_blank"}.
+7. [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/abs/2209.03003){:target="\_blank"}.
+
+
 ***
 
 #### Representation Learning 
