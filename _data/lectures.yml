@@ -58,7 +58,7 @@
 - date: 09/09
   lecturer: Bo Dai
   title: >
-    <strong>Density Parametrization II & Sampling: basic sampling method</strong>
+    <strong>Density Parametrization II</strong>
   slides:
 #  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec5.pdf"
   # video: 
@@ -75,7 +75,7 @@
 - date: 09/11
   lecturer: Bo Dai
   title: >
-    <strong>Sampling: Acceptance-Rejection & Importance Sampling</strong>
+    <strong>Sampling: Basic Sampling, Acceptance-Rejection & Importance Sampling</strong>
   slides:
 #  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec6.pdf"
   # video: 
