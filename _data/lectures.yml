@@ -48,7 +48,7 @@
   title: >
     <strong>Optimization: gradient descent & Density Parametrization I</strong>
   slides:
-#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec5.pdf"
+  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec5.pdf"
   # video: 
   readings:
     - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>, Section 5
@@ -60,7 +60,7 @@
   title: >
     <strong>Density Parametrization II & Sampling: basic sampling method</strong>
   slides:
-#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec5.pdf"
+  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec6.pdf"
   # video: 
   readings:
     - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 8 & 11
@@ -77,7 +77,7 @@
   title: >
     <strong>Sampling: Acceptance-Rejection & Importance Sampling</strong>
   slides:
-#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec6.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec7.pdf"
   # video: 
   readings:
     - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 11
@@ -87,7 +87,7 @@
   title: >
     <strong>Sampling: MCMC (MH, Gibbs & Hamiltonian)</strong>
   slides: 
-#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec7.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec8.pdf"
   # video: 
   readings:
     - Neal, <a href="https://www.mcmchandbook.net/HandbookChapter5.pdf" target="_blank">MCMC Using Hamiltonian Dynamics</a>
