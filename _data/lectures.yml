@@ -294,7 +294,7 @@
 
 
 - date: 11/18
-#  lecturer:
+lecturer: Bo Dai
   title: >
     <strong>Review</strong>
 
@@ -314,7 +314,7 @@
     <strong>No Class Student Recess</strong>
 
 - date: 12/02
-  lecturer: Bo Dai
+ # lecturer: 
   title: >
     <strong> Project Presentations </strong>
 
