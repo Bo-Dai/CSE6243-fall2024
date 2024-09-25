@@ -124,9 +124,10 @@
   # video:
   readings:
      - Song et al. 2020, <a href="https://arxiv.org/abs/2011.13456" target="_blank">Score-Based Generative Modeling through Stochastic Differential Equations </a>
-     - Liu et al. 2022, <a href="https://arxiv.org/pdf/2209.03003" target="_blank">Flow Straight and Fast Learning to Generate and Transfer Data with Rectified Flow </a>
-     - Daras et al. 2024, <a href="https://arxiv.org/abs/2404.10177" target="_blank">Consistent Diffusion Meets Tweedie - Training Exact Ambient Diffusion Models with Noisy Data </a>
+     # - Liu et al. 2022, <a href="https://arxiv.org/pdf/2209.03003" target="_blank">Flow Straight and Fast Learning to Generate and Transfer Data with Rectified Flow </a>
+     # - Daras et al. 2024, <a href="https://arxiv.org/abs/2404.10177" target="_blank">Consistent Diffusion Meets Tweedie - Training Exact Ambient Diffusion Models with Noisy Data </a>
      - Shribak et al. 2024, <a href="https://arxiv.org/abs/2406.16121" target="_blank">Diffusion Spectral Representation for Reinforcement Learning </a> 
+     - Song et al. 2019, <a href="https://arxiv.org/abs/1907.05600" target="_blank">Generative Modeling by Estimating Gradients of the Data Distribution</a> 
 
 - date: 09/30
   lecturer: Bo Dai
