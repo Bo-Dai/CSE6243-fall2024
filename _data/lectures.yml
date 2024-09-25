@@ -115,16 +115,18 @@
   readings:
       - Song & Kingma, <a href="https://arxiv.org/abs/2101.03288" target="_blank">How to Train Your Energy-Based Models</a>
 
-
 - date: 09/25
   lecturer: Bo Dai
   title: >
-    <strong>Autoregressive Model</strong>
-  slides: 
-#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec11.pdf"
-  # video: 
+    <strong>EBM and Diffusion</strong>
+  slides:
+#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec12.pdf"
+  # video:
   readings:
-      - Larochelle & Murray, <a href="http://proceedings.mlr.press/v15/larochelle11a/larochelle11a.pdf" target="_blank">The Neural Autoregressive Distribution Estimator</a>
+     - Song et al. 2020, <a href="https://arxiv.org/abs/2011.13456" target="_blank">Score-Based Generative Modeling through Stochastic Differential Equations </a>
+     - Liu et al. 2022, <a href="https://arxiv.org/pdf/2209.03003" target="_blank">Flow Straight and Fast Learning to Generate and Transfer Data with Rectified Flow </a>
+     - Daras et al. 2024, <a href="https://arxiv.org/abs/2404.10177" target="_blank">Consistent Diffusion Meets Tweedie - Training Exact Ambient Diffusion Models with Noisy Data </a>
+     - Shribak et al. 2024, <a href="https://arxiv.org/abs/2406.16121" target="_blank">Diffusion Spectral Representation for Reinforcement Learning </a> 
 
 - date: 09/30
   lecturer: Bo Dai
@@ -136,18 +138,18 @@
   readings:
      - Kingma & Welling, <a href="https://arxiv.org/abs/1312.6114" target="_blank">Auto-Encoding Variational Bayes</a>
      - Rezende, Mohamed, & Wierstra, <a href="https://arxiv.org/abs/1401.4082" target="_blank">Stochastic Backpropagation and Approximate Inference in Deep Generative Models</a>
-
+     - Ho, Jain, & Abbeel, <a href="https://arxiv.org/abs/2006.11239" target="_blank">Denoising Diffusion Probabilistic Models</a>
+     
 
 - date: 10/02
   lecturer: Bo Dai
   title: >
-    <strong>Diffusion Variants and EBM</strong>
-  slides:
-#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec12.pdf"
-  # video:
+    <strong>Autoregressive Model</strong>
+  slides: 
+#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec11.pdf"
+  # video: 
   readings:
-     - Liu et al. 2022, <a href="https://arxiv.org/pdf/2209.03003" target="_blank">Flow Straight and Fast Learning to Generate and Transfer Data with Rectified Flow </a>
-     - Song et al, 2023, <a href="https://arxiv.org/abs/2303.01469" target="_blank">Consistency Model</a>
+      - Larochelle & Murray, <a href="http://proceedings.mlr.press/v15/larochelle11a/larochelle11a.pdf" target="_blank">The Neural Autoregressive Distribution Estimator</a>
 
 
 - date: 10/07
@@ -159,6 +161,8 @@
   # video:
   readings:
     - Kobyzev et al. 2019, <a href="https://arxiv.org/abs/1908.09257" target="_blank">Normalizing Flows &#58 An Introduction and Review of Current Methods</a>
+    # - Liu et al. 2022, <a href="https://arxiv.org/pdf/2209.03003" target="_blank">Flow Straight and Fast Learning to Generate and Transfer Data with Rectified Flow </a>
+    # - Song et al, 2023, <a href="https://arxiv.org/abs/2303.01469" target="_blank">Consistency Model</a>
 
 
 - date: 10/09
