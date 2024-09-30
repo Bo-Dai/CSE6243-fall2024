@@ -140,7 +140,7 @@
      - Kingma & Welling, <a href="https://arxiv.org/abs/1312.6114" target="_blank">Auto-Encoding Variational Bayes</a>
      - Rezende, Mohamed, & Wierstra, <a href="https://arxiv.org/abs/1401.4082" target="_blank">Stochastic Backpropagation and Approximate Inference in Deep Generative Models</a>
      - Ho, Jain, & Abbeel, <a href="https://arxiv.org/abs/2006.11239" target="_blank">Denoising Diffusion Probabilistic Models</a>
-     
+     - Wang, <a href="https://lilianweng.github.io/posts/2021-07-11-diffusion-models/"> Blog-What are Diffusion Models?</a>
 
 - date: 10/02
   lecturer: Bo Dai
