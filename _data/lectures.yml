@@ -132,17 +132,27 @@
 - date: 09/30
   lecturer: Bo Dai
   title: >
-    <strong>VAE and Diffusion</strong>
+    <strong>VAE and Diffusion I</strong>
   slides: 
 #  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec12.pdf"
   # video: 
   readings:
      - Kingma & Welling, <a href="https://arxiv.org/abs/1312.6114" target="_blank">Auto-Encoding Variational Bayes</a>
      - Rezende, Mohamed, & Wierstra, <a href="https://arxiv.org/abs/1401.4082" target="_blank">Stochastic Backpropagation and Approximate Inference in Deep Generative Models</a>
+     
+- date: 10/02
+  lecturer: Bo Dai
+  title: >
+    <strong> VAE and Diffusion II </strong>
+  slides:
+#  notes: 
+# video:
+  readings:
      - Ho, Jain, & Abbeel, <a href="https://arxiv.org/abs/2006.11239" target="_blank">Denoising Diffusion Probabilistic Models</a>
      - Wang, <a href="https://lilianweng.github.io/posts/2021-07-11-diffusion-models/"> Blog-What are Diffusion Models?</a>
 
-- date: 10/02
+
+- date: 10/07
   lecturer: Bo Dai
   title: >
     <strong>Autoregressive Model</strong>
@@ -152,28 +162,15 @@
   readings:
       - Larochelle & Murray, <a href="http://proceedings.mlr.press/v15/larochelle11a/larochelle11a.pdf" target="_blank">The Neural Autoregressive Distribution Estimator</a>
 
-
-- date: 10/07
-  lecturer: Bo Dai
-  title: >
-    <strong>Normalizing Flow Models </strong>
-  slides:
-#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec17.pdf"
-  # video:
-  readings:
-    - Kobyzev et al. 2019, <a href="https://arxiv.org/abs/1908.09257" target="_blank">Normalizing Flows &#58 An Introduction and Review of Current Methods</a>
-    # - Liu et al. 2022, <a href="https://arxiv.org/pdf/2209.03003" target="_blank">Flow Straight and Fast Learning to Generate and Transfer Data with Rectified Flow </a>
-    # - Song et al, 2023, <a href="https://arxiv.org/abs/2303.01469" target="_blank">Consistency Model</a>
-
-
 - date: 10/09
   lecturer: Bo Dai
   title: >
-    <strong>Generative Adversarial Nets (GAN)</strong>
+    <strong>Generative Adversarial Nets (GAN) and Normalizing Flow Models </strong>
   slides:
 #  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec16.pdf"
   # video:
   readings:
+    - Kobyzev et al. 2019, <a href="https://arxiv.org/abs/1908.09257" target="_blank">Normalizing Flows &#58 An Introduction and Review of Current Methods</a>
     - Goodfellow et al. 2014, <a href="https://arxiv.org/abs/1406.2661" target="_blank">Generative Adversarial Networks</a>
     - Nowozin et al. 2016, <a href="https://arxiv.org/abs/1606.00709" target="_blank">f-GAN &#58 Training Generative Neural Samplers using Variational Divergence Minimization</a>
     - Dai et al. 2019, <a href="https://proceedings.neurips.cc/paper_files/paper/2019/file/767d01b4bac1a1e8824c9b9f7cc79a04-Paper.pdf" target="_blank">Exponential Family Estimation via Adversarial Dynamics Embedding</a>
