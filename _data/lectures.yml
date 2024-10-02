@@ -187,8 +187,8 @@
   lecturer: Runyu Zhang (Harvard)
   title: >
     <strong>Scalable Distributed Control and Reinforcement Learning for Multi-Agent Network Systems</strong>
-    readings: 
-    Multi-agent network systems play a critical role in modern societal infrastructures, including smart cities, power grids, and transportation networks. This talk will explore scalable distributed control and reinforcement learning (RL) techniques tailored for such systems. In the first part, I will focus on distributed control for networks with linear dynamics, demonstrating that under certain locality assumptions, distributed controllers can achieve near-global-optimal performance. Building upon this insight, the second part will extend to systems with potentially nonlinear dynamics. By leveraging representation learning, we approximate the dynamics as a linear combination of features, and introduce an algorithm that harnesses the network structure to ensure both convergence guarantees and strong empirical performance.
+  readings: 
+     Multi-agent network systems play a critical role in modern societal infrastructures, including smart cities, power grids, and transportation networks. This talk will explore scalable distributed control and reinforcement learning (RL) techniques tailored for such systems. In the first part, I will focus on distributed control for networks with linear dynamics, demonstrating that under certain locality assumptions, distributed controllers can achieve near-global-optimal performance. Building upon this insight, the second part will extend to systems with potentially nonlinear dynamics. By leveraging representation learning, we approximate the dynamics as a linear combination of features, and introduce an algorithm that harnesses the network structure to ensure both convergence guarantees and strong empirical performance.
 
 - date: 10/16
   title: >
