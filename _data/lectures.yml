@@ -186,7 +186,7 @@
 - date: 10/16
   lecturer: <a href="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/" target="_blank"> Runyu Zhang (Harvard) </a>
   title: >
-    <strong>Scalable Distributed Control and Reinforcement Learning for Multi-Agent Network Systems</strong>
+    <strong> (Zoom link: https://gatech.zoom.us/j/93227128162) Scalable Distributed Control and Reinforcement Learning for Multi-Agent Network Systems</strong>
   readings: 
      Multi-agent network systems play a critical role in modern societal infrastructures, including smart cities, power grids, and transportation networks. This talk will explore scalable distributed control and reinforcement learning (RL) techniques tailored for such systems. In the first part, I will focus on distributed control for networks with linear dynamics, demonstrating that under certain locality assumptions, distributed controllers can achieve near-global-optimal performance. Building upon this insight, the second part will extend to systems with potentially nonlinear dynamics. By leveraging representation learning, we approximate the dynamics as a linear combination of features, and introduce an algorithm that harnesses the network structure to ensure both convergence guarantees and strong empirical performance.
 
