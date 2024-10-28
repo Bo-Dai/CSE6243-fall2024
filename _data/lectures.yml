@@ -233,7 +233,7 @@
 #  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec15.pdf"
 #  video:  "https://gatech.instructure.com/courses/377010/external_tools/17731"
   readings:
-       -  HaoChen et al, 2021, <a href="https://arxiv.org/abs/2002.05709" target="_blank">Provable Guarantees for Self-Supervised Deep Learning with Spectral Contrastive Loss</a>
+       -  HaoChen et al, 2021, <a href="https://arxiv.org/abs/2106.04156" target="_blank">Provable Guarantees for Self-Supervised Deep Learning with Spectral Contrastive Loss</a>
        -  Balestriero 2022, <a href="https://arxiv.org/pdf/2205.11508" target="_blank">Contrastive and Non-Contrastive Self-Supervised Learning Recover Global and Local Spectral Embedding Methods</a>
 
 
