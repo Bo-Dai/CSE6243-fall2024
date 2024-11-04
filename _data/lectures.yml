@@ -157,7 +157,7 @@
   title: >
     <strong>Autoregressive Model</strong>
   slides: 
-#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec11.pdf"
+  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec14.pdf"
   # video: 
   readings:
       - Larochelle & Murray, <a href="http://proceedings.mlr.press/v15/larochelle11a/larochelle11a.pdf" target="_blank">The Neural Autoregressive Distribution Estimator</a>
@@ -167,7 +167,7 @@
   title: >
     <strong>Generative Adversarial Nets (GAN) and Normalizing Flow Models </strong>
   slides:
-#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec16.pdf"
+  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec15.pdf"
   # video:
   readings:
     - Kobyzev et al. 2019, <a href="https://arxiv.org/abs/1908.09257" target="_blank">Normalizing Flows &#58 An Introduction and Review of Current Methods</a>
