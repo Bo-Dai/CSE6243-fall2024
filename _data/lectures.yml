@@ -248,7 +248,7 @@
   title: >
     <strong>MDP: Bellman Recursion</strong>
   slides: 
-#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec20.pdf"
+  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec20.pdf"
   # video: 
   readings:
    - Puterman and Chan, 2023. <a href="https://github.com/martyput/MDP_book" target="_blank">Introduction to Markov Decision Processes</a>
@@ -261,7 +261,7 @@
   title: >
     <strong>DP: Value and Policy Iteration</strong>
   slides: 
-#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec21.pdf"
+  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec21.pdf"
   # video: 
   readings:
    - Puterman and Chan, 2023. <a href="https://github.com/martyput/MDP_book" target="_blank">Introduction to Markov Decision Processes</a>
@@ -272,7 +272,7 @@
   title: >
     <strong>Learning with MDPs</strong>
   slides: 
-#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec22.pdf"
+  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec22.pdf"
   # video: 
   readings:
    - Mnih et al, 2013. <a href="https://arxiv.org/abs/1312.5602" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
@@ -283,7 +283,7 @@
   title: >
     <strong>Policy Gradient and Actor-Critic</strong>
   slides: 
-#  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec23.pdf"
+  notes: "https://bo-dai.github.io/CSE6243-fall2024/scribing/Notes_lec23.pdf"
   # video: 
   readings:
     - Sutton et al, 1999. <a href="https://proceedings.neurips.cc/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf" target="_blank">Policy Gradient Methods for Reinforcement Learning with Function Approximation</a>
